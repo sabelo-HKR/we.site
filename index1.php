@@ -17,7 +17,7 @@
 
     <p>
       Sabelo Mbazini is an upcoming software developer. Mr Mbazini is a Web developer using HTML5, Javascript and Applications development using Java. He is currentlly enrolled at Cape Peninsula University of Technology studying towards Information Technology. Mbazini as an upcoming developer he is willing to work tirelessly in any avaliable industry in pursuit of his dreams and aspiration
-      in the developing industry. For any inquiries, kindly use the provided below contact details.
+      in the developing industry. For any inquiries, kindly use the provided below contact details!
 
     </p>
   </div>
